@@ -5,6 +5,10 @@
 </h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=2000&color=0e75b6&center=true&vCenter=true&width=600&lines=%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it%27s+bad.%22" alt="Quote" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=nourosenaim&label=Profile%20views&color=0e75b6&style=flat" alt="nourosenaim" />
 </p>
 
@@ -128,7 +132,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nourosenaim&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
-
----
-
-> *"Code is like humor. When you have to explain it, it's bad."*
